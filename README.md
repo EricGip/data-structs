@@ -11,10 +11,10 @@ Step 1: Learn the very basics... can you reverse a linked list?
    
    
 My main resources were:
-Geeks4Geeks contributors
-The TechLead - Algorithm / Interview tips
-Chris Jereza - Algorithm / Interview tips
-.
-.
-. Filler
+   * Geeks4Geeks contributors
+   * The TechLead - Algorithm / Interview tips
+   * Chris Jereza - Algorithm / Interview tips
+   * .
+   * .
+   * . Filler
    * Thank you if you somehow see this!
